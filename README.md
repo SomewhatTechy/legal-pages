@@ -1,6 +1,6 @@
 # Legal Pages
 
-Centralized legal pages (privacy policy, terms of service, etc.) for all web properties and applications operated by Luis Ramos.
+Centralized legal pages (privacy policy, terms of service, etc.) for all web properties and applications operated by Ecommerce Shop Cart LLC.
 
 ## Contents
 
